@@ -21,4 +21,4 @@
 
 ## 🚀 Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=python,java,flutter,react,nodejs,mysql,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,flutter,mongodb,expressjs,react,nodejs,mysql,git)
