@@ -1,4 +1,4 @@
-## Hi there 👋 I'm mohamed Jasim
+## Hi there 👋 I'm Mohamed Jasim
 
 🎓 IT Engineer
 💻 Currently learning Full Stack development
