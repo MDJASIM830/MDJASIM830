@@ -15,3 +15,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/YOURUSERNAME)
+
+## 🚀 Languages & Tools
+
+![My Skills](https://skillicons.dev/icons?i=python,java,flutter,react,nodejs,mysql,git)
+
+![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
