@@ -15,9 +15,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=MDJASIM830&theme=tokyonight)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOURUSERNAME)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mohamed_Jasim_830)
 
 ## 🚀 Languages & Tools
 
