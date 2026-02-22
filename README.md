@@ -9,7 +9,7 @@
 📫 Reach me at : mohamedjasim830@gmail.com
 
 ## 🌐 connect with me:
-[LinkedIn](www.linkedin.com/in/mohamed-jasim-830it) | [Portfolio](https://mohd-jasim-730.github.io/e-commerce/)
+[LinkedIn](www.linkedin.com/in/mohamed-jasim-830it) | [Portfolio](https://mohd-jasim-730.github.io/Jasim-Portfolio/)
 
 ## 📊 GitHub Stats
 
